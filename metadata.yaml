@@ -1,0 +1,28 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Edmund-Burke_58646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burke, Edmund
+    birthdate: 1729
+    deathdate: 1797
+    gutenberg_agent_id: '842'
+    url: http://www.gutenberg.org/2009/agents/842
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Burke
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Edmund Burke
+url: http://www.gutenberg.org/ebooks/58646
